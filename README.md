@@ -30,7 +30,7 @@ This project spans two assignments built on the **FIFA Player Dataset**, coverin
 ```
 ML_Project/
 │
-├── ML_project_2_3.ipynb        # Main Jupyter Notebook (fully executed)
+├── ML_project.ipynb        # Main Jupyter Notebook (fully executed)
 ├── Fifa.csv                    # FIFA player dataset
 └── README.md                   # This file
 ```
